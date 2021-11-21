@@ -1,3 +1,3 @@
 # siteattempt
 
-this should include bootstarp but it seems to have lost its form component
+this should include bootstrap but it seems to have lost its form component
